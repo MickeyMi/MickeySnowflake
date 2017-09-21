@@ -4,7 +4,12 @@
 	<artifactId>snowflake</artifactId>
 	<version>1.0.1</version>
 	<name>snowflake</name>
+	<url>https://github.com/mickeymi/mickeysnowflake</url>
 	<description>According to twitter snowflake id generator</description>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
 
 	<licenses>
 		<license>

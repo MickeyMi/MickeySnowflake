@@ -45,9 +45,8 @@ public class Snowflake {
 	}
 
 	/**
-	 * 有机器码
-	 * 
 	 * @param workerId
+	 *            机器码
 	 */
 	public Snowflake(int workerId) {
 		if (workerId < 0L || workerId >= WORKER_ID_MAX_VALUE)
